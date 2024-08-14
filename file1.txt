@@ -1,3 +1,4 @@
 curso de git y github
 jerry anderson huaynacho mango
 so god
+agregamos esta linea pero en  la rama 2 nueva que acabamos de crear el 14 de agosto 
